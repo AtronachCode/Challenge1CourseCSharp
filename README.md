@@ -5,5 +5,4 @@ This is the class diagram model for better assimilation of the challenge.
 
 ![Captura de tela 2025-03-21 135730](https://github.com/user-attachments/assets/ffc2c071-d9cb-4e73-82f8-746caa5f85a3)
 
-The console output should look something like this
-![Captura de tela 2025-03-21 135651](https://github.com/user-attachments/assets/beb174ee-06cf-4ce6-9a36-0d4887e6b301)
+
